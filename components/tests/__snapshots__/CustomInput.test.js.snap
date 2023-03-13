@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing custom input field that we use in Authentication flow renders the custom input field 1`] = `
+<View
+  style={
+    {
+      "marginBottom": 8,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 16,
+        },
+        {
+          "color": "rgb(28, 28, 30)",
+        },
+      ]
+    }
+  />
+  <TextInput
+    onBlur={[Function]}
+    onChangeText={[MockFunction]}
+    onFocus={[Function]}
+    style={
+      {
+        "backgroundColor": "#fff",
+        "borderRadius": 28,
+        "borderWidth": 0.5,
+        "color": "#212121",
+        "height": 48,
+        "marginVertical": 10,
+        "paddingHorizontal": 8,
+        "width": "100%",
+      }
+    }
+    value=""
+  />
+  <Text>
+     
+  </Text>
+</View>
+`;
+
+exports[`Testing custom input field that we use in Authentication flow shows text label field correctly 1`] = `
+<View
+  style={
+    {
+      "marginBottom": 8,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 16,
+        },
+        {
+          "color": "rgb(28, 28, 30)",
+        },
+      ]
+    }
+  >
+    Test label
+  </Text>
+  <TextInput
+    onBlur={[Function]}
+    onChangeText={[MockFunction]}
+    onFocus={[Function]}
+    style={
+      {
+        "backgroundColor": "#fff",
+        "borderRadius": 28,
+        "borderWidth": 0.5,
+        "color": "#212121",
+        "height": 48,
+        "marginVertical": 10,
+        "paddingHorizontal": 8,
+        "width": "100%",
+      }
+    }
+    value="Test value"
+  />
+  <Text>
+     
+  </Text>
+</View>
+`;
+
+exports[`TextInput renders the custom input field 1`] = `
+<View
+  style={
+    {
+      "marginBottom": 8,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 16,
+        },
+        {
+          "color": "rgb(28, 28, 30)",
+        },
+      ]
+    }
+  />
+  <TextInput
+    onBlur={[Function]}
+    onChangeText={[MockFunction]}
+    onFocus={[Function]}
+    style={
+      {
+        "backgroundColor": "#fff",
+        "borderRadius": 28,
+        "borderWidth": 0.5,
+        "color": "#212121",
+        "height": 48,
+        "marginVertical": 10,
+        "paddingHorizontal": 8,
+        "width": "100%",
+      }
+    }
+    value=""
+  />
+  <Text>
+     
+  </Text>
+</View>
+`;
